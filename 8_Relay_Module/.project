@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>8_Relay_Module</name>
+	<comment></comment>
+	<projects>
+		<project>8_Relay_Module_Arduino</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
